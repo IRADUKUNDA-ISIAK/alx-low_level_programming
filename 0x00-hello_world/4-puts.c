@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdion.h>
 int main(void)
 {
